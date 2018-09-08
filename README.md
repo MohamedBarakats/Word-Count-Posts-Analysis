@@ -1,4 +1,4 @@
-# WordCount
+# Word Count and Posts-Analysis
 
 -Get the count of words and the top repeated ones  
 
